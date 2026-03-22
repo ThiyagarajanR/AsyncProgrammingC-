@@ -1,2 +1,10 @@
 <Solution>
+  <Project Path="01.Foundations/01.Foundations.csproj" />
+  <Project Path="02.AsyncAwait/02.AsyncAwait.csproj" />
+  <Project Path="03.Combinators/03.Combinators.csproj" />
+  <Project Path="04.Cancellation/04.Cancellation.csproj" />
+  <Project Path="05.Exceptions/05.Exceptions.csproj" />
+  <Project Path="06.AsyncStreams/06.AsyncStreams.csproj" />
+  <Project Path="07.Primitives/07.Primitives.csproj" />
+  <Project Path="08.Performance/08.Performance.csproj" />
 </Solution>
