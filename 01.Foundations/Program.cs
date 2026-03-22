@@ -25,3 +25,24 @@ Console.WriteLine("\nMain thread: Thread1 has finished, continuing now.");
 
 
 thread1.Join(); // Main thread waits here until thread1 finishes
+
+// =============================================================
+// PHASE 1 — Concept 2: What is a Task?
+// =============================================================
+
+Console.WriteLine("=== What is a Task? ===\n");
+
+Console.WriteLine($"Main thread ID: {Environment.CurrentManagedThreadId}");
+
+var task = Task.Run(() =>
+{
+    Console.WriteLine($"  Task started  — ID: {Environment.CurrentManagedThreadId}");
+    Thread.Sleep(2000); // simulate doing some work for 2 seconds
+    Console.WriteLine($"  Task finished — ID: {Environment.CurrentManagedThreadId}");
+});
+Console.WriteLine("Main thread is still running while Task works...");
+
+task.Wait(); // same as thread1.Join()
+
+Console.WriteLine("Main thread: Task has finished.");
+
