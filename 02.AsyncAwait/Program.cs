@@ -27,3 +27,6 @@ for (int i = 1; i <= 5; i++)
         Console.WriteLine($"  Task {num} — ID: {Environment.CurrentManagedThreadId}");
     });
 }
+
+await Task.Delay(500); // give tasks time to finish
+Console.WriteLine("Done!");
