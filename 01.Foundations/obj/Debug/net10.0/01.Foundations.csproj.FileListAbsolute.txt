@@ -1,0 +1,15 @@
+/workspaces/AsyncProgrammingC-/01.Foundations/bin/Debug/net10.0/01.Foundations
+/workspaces/AsyncProgrammingC-/01.Foundations/bin/Debug/net10.0/01.Foundations.deps.json
+/workspaces/AsyncProgrammingC-/01.Foundations/bin/Debug/net10.0/01.Foundations.runtimeconfig.json
+/workspaces/AsyncProgrammingC-/01.Foundations/bin/Debug/net10.0/01.Foundations.dll
+/workspaces/AsyncProgrammingC-/01.Foundations/bin/Debug/net10.0/01.Foundations.pdb
+/workspaces/AsyncProgrammingC-/01.Foundations/obj/Debug/net10.0/01.Foundations.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AsyncProgrammingC-/01.Foundations/obj/Debug/net10.0/01.Foundations.AssemblyInfoInputs.cache
+/workspaces/AsyncProgrammingC-/01.Foundations/obj/Debug/net10.0/01.Foundations.AssemblyInfo.cs
+/workspaces/AsyncProgrammingC-/01.Foundations/obj/Debug/net10.0/01.Foundations.csproj.CoreCompileInputs.cache
+/workspaces/AsyncProgrammingC-/01.Foundations/obj/Debug/net10.0/01.Foundations.sourcelink.json
+/workspaces/AsyncProgrammingC-/01.Foundations/obj/Debug/net10.0/01.Foundations.dll
+/workspaces/AsyncProgrammingC-/01.Foundations/obj/Debug/net10.0/refint/01.Foundations.dll
+/workspaces/AsyncProgrammingC-/01.Foundations/obj/Debug/net10.0/01.Foundations.pdb
+/workspaces/AsyncProgrammingC-/01.Foundations/obj/Debug/net10.0/01.Foundations.genruntimeconfig.cache
+/workspaces/AsyncProgrammingC-/01.Foundations/obj/Debug/net10.0/ref/01.Foundations.dll

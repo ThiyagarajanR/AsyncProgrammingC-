@@ -1,0 +1,15 @@
+/workspaces/AsyncProgrammingC-/04.Cancellation/bin/Debug/net10.0/04.Cancellation
+/workspaces/AsyncProgrammingC-/04.Cancellation/bin/Debug/net10.0/04.Cancellation.deps.json
+/workspaces/AsyncProgrammingC-/04.Cancellation/bin/Debug/net10.0/04.Cancellation.runtimeconfig.json
+/workspaces/AsyncProgrammingC-/04.Cancellation/bin/Debug/net10.0/04.Cancellation.dll
+/workspaces/AsyncProgrammingC-/04.Cancellation/bin/Debug/net10.0/04.Cancellation.pdb
+/workspaces/AsyncProgrammingC-/04.Cancellation/obj/Debug/net10.0/04.Cancellation.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AsyncProgrammingC-/04.Cancellation/obj/Debug/net10.0/04.Cancellation.AssemblyInfoInputs.cache
+/workspaces/AsyncProgrammingC-/04.Cancellation/obj/Debug/net10.0/04.Cancellation.AssemblyInfo.cs
+/workspaces/AsyncProgrammingC-/04.Cancellation/obj/Debug/net10.0/04.Cancellation.csproj.CoreCompileInputs.cache
+/workspaces/AsyncProgrammingC-/04.Cancellation/obj/Debug/net10.0/04.Cancellation.sourcelink.json
+/workspaces/AsyncProgrammingC-/04.Cancellation/obj/Debug/net10.0/04.Cancellation.dll
+/workspaces/AsyncProgrammingC-/04.Cancellation/obj/Debug/net10.0/refint/04.Cancellation.dll
+/workspaces/AsyncProgrammingC-/04.Cancellation/obj/Debug/net10.0/04.Cancellation.pdb
+/workspaces/AsyncProgrammingC-/04.Cancellation/obj/Debug/net10.0/04.Cancellation.genruntimeconfig.cache
+/workspaces/AsyncProgrammingC-/04.Cancellation/obj/Debug/net10.0/ref/04.Cancellation.dll

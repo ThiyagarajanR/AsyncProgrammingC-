@@ -1,0 +1,15 @@
+/workspaces/AsyncProgrammingC-/08.Performance/bin/Debug/net10.0/08.Performance
+/workspaces/AsyncProgrammingC-/08.Performance/bin/Debug/net10.0/08.Performance.deps.json
+/workspaces/AsyncProgrammingC-/08.Performance/bin/Debug/net10.0/08.Performance.runtimeconfig.json
+/workspaces/AsyncProgrammingC-/08.Performance/bin/Debug/net10.0/08.Performance.dll
+/workspaces/AsyncProgrammingC-/08.Performance/bin/Debug/net10.0/08.Performance.pdb
+/workspaces/AsyncProgrammingC-/08.Performance/obj/Debug/net10.0/08.Performance.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AsyncProgrammingC-/08.Performance/obj/Debug/net10.0/08.Performance.AssemblyInfoInputs.cache
+/workspaces/AsyncProgrammingC-/08.Performance/obj/Debug/net10.0/08.Performance.AssemblyInfo.cs
+/workspaces/AsyncProgrammingC-/08.Performance/obj/Debug/net10.0/08.Performance.csproj.CoreCompileInputs.cache
+/workspaces/AsyncProgrammingC-/08.Performance/obj/Debug/net10.0/08.Performance.sourcelink.json
+/workspaces/AsyncProgrammingC-/08.Performance/obj/Debug/net10.0/08.Performance.dll
+/workspaces/AsyncProgrammingC-/08.Performance/obj/Debug/net10.0/refint/08.Performance.dll
+/workspaces/AsyncProgrammingC-/08.Performance/obj/Debug/net10.0/08.Performance.pdb
+/workspaces/AsyncProgrammingC-/08.Performance/obj/Debug/net10.0/08.Performance.genruntimeconfig.cache
+/workspaces/AsyncProgrammingC-/08.Performance/obj/Debug/net10.0/ref/08.Performance.dll

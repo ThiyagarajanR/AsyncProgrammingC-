@@ -1,0 +1,15 @@
+/workspaces/AsyncProgrammingC-/02.AsyncAwait/bin/Debug/net10.0/02.AsyncAwait
+/workspaces/AsyncProgrammingC-/02.AsyncAwait/bin/Debug/net10.0/02.AsyncAwait.deps.json
+/workspaces/AsyncProgrammingC-/02.AsyncAwait/bin/Debug/net10.0/02.AsyncAwait.runtimeconfig.json
+/workspaces/AsyncProgrammingC-/02.AsyncAwait/bin/Debug/net10.0/02.AsyncAwait.dll
+/workspaces/AsyncProgrammingC-/02.AsyncAwait/bin/Debug/net10.0/02.AsyncAwait.pdb
+/workspaces/AsyncProgrammingC-/02.AsyncAwait/obj/Debug/net10.0/02.AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AsyncProgrammingC-/02.AsyncAwait/obj/Debug/net10.0/02.AsyncAwait.AssemblyInfoInputs.cache
+/workspaces/AsyncProgrammingC-/02.AsyncAwait/obj/Debug/net10.0/02.AsyncAwait.AssemblyInfo.cs
+/workspaces/AsyncProgrammingC-/02.AsyncAwait/obj/Debug/net10.0/02.AsyncAwait.csproj.CoreCompileInputs.cache
+/workspaces/AsyncProgrammingC-/02.AsyncAwait/obj/Debug/net10.0/02.AsyncAwait.sourcelink.json
+/workspaces/AsyncProgrammingC-/02.AsyncAwait/obj/Debug/net10.0/02.AsyncAwait.dll
+/workspaces/AsyncProgrammingC-/02.AsyncAwait/obj/Debug/net10.0/refint/02.AsyncAwait.dll
+/workspaces/AsyncProgrammingC-/02.AsyncAwait/obj/Debug/net10.0/02.AsyncAwait.pdb
+/workspaces/AsyncProgrammingC-/02.AsyncAwait/obj/Debug/net10.0/02.AsyncAwait.genruntimeconfig.cache
+/workspaces/AsyncProgrammingC-/02.AsyncAwait/obj/Debug/net10.0/ref/02.AsyncAwait.dll

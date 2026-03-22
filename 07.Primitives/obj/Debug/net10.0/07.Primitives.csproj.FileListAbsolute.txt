@@ -1,0 +1,15 @@
+/workspaces/AsyncProgrammingC-/07.Primitives/bin/Debug/net10.0/07.Primitives
+/workspaces/AsyncProgrammingC-/07.Primitives/bin/Debug/net10.0/07.Primitives.deps.json
+/workspaces/AsyncProgrammingC-/07.Primitives/bin/Debug/net10.0/07.Primitives.runtimeconfig.json
+/workspaces/AsyncProgrammingC-/07.Primitives/bin/Debug/net10.0/07.Primitives.dll
+/workspaces/AsyncProgrammingC-/07.Primitives/bin/Debug/net10.0/07.Primitives.pdb
+/workspaces/AsyncProgrammingC-/07.Primitives/obj/Debug/net10.0/07.Primitives.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AsyncProgrammingC-/07.Primitives/obj/Debug/net10.0/07.Primitives.AssemblyInfoInputs.cache
+/workspaces/AsyncProgrammingC-/07.Primitives/obj/Debug/net10.0/07.Primitives.AssemblyInfo.cs
+/workspaces/AsyncProgrammingC-/07.Primitives/obj/Debug/net10.0/07.Primitives.csproj.CoreCompileInputs.cache
+/workspaces/AsyncProgrammingC-/07.Primitives/obj/Debug/net10.0/07.Primitives.sourcelink.json
+/workspaces/AsyncProgrammingC-/07.Primitives/obj/Debug/net10.0/07.Primitives.dll
+/workspaces/AsyncProgrammingC-/07.Primitives/obj/Debug/net10.0/refint/07.Primitives.dll
+/workspaces/AsyncProgrammingC-/07.Primitives/obj/Debug/net10.0/07.Primitives.pdb
+/workspaces/AsyncProgrammingC-/07.Primitives/obj/Debug/net10.0/07.Primitives.genruntimeconfig.cache
+/workspaces/AsyncProgrammingC-/07.Primitives/obj/Debug/net10.0/ref/07.Primitives.dll

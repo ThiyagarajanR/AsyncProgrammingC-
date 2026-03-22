@@ -1,0 +1,15 @@
+/workspaces/AsyncProgrammingC-/03.Combinators/bin/Debug/net10.0/03.Combinators
+/workspaces/AsyncProgrammingC-/03.Combinators/bin/Debug/net10.0/03.Combinators.deps.json
+/workspaces/AsyncProgrammingC-/03.Combinators/bin/Debug/net10.0/03.Combinators.runtimeconfig.json
+/workspaces/AsyncProgrammingC-/03.Combinators/bin/Debug/net10.0/03.Combinators.dll
+/workspaces/AsyncProgrammingC-/03.Combinators/bin/Debug/net10.0/03.Combinators.pdb
+/workspaces/AsyncProgrammingC-/03.Combinators/obj/Debug/net10.0/03.Combinators.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AsyncProgrammingC-/03.Combinators/obj/Debug/net10.0/03.Combinators.AssemblyInfoInputs.cache
+/workspaces/AsyncProgrammingC-/03.Combinators/obj/Debug/net10.0/03.Combinators.AssemblyInfo.cs
+/workspaces/AsyncProgrammingC-/03.Combinators/obj/Debug/net10.0/03.Combinators.csproj.CoreCompileInputs.cache
+/workspaces/AsyncProgrammingC-/03.Combinators/obj/Debug/net10.0/03.Combinators.sourcelink.json
+/workspaces/AsyncProgrammingC-/03.Combinators/obj/Debug/net10.0/03.Combinators.dll
+/workspaces/AsyncProgrammingC-/03.Combinators/obj/Debug/net10.0/refint/03.Combinators.dll
+/workspaces/AsyncProgrammingC-/03.Combinators/obj/Debug/net10.0/03.Combinators.pdb
+/workspaces/AsyncProgrammingC-/03.Combinators/obj/Debug/net10.0/03.Combinators.genruntimeconfig.cache
+/workspaces/AsyncProgrammingC-/03.Combinators/obj/Debug/net10.0/ref/03.Combinators.dll

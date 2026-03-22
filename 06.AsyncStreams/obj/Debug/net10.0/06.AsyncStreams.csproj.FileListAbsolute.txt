@@ -1,0 +1,15 @@
+/workspaces/AsyncProgrammingC-/06.AsyncStreams/bin/Debug/net10.0/06.AsyncStreams
+/workspaces/AsyncProgrammingC-/06.AsyncStreams/bin/Debug/net10.0/06.AsyncStreams.deps.json
+/workspaces/AsyncProgrammingC-/06.AsyncStreams/bin/Debug/net10.0/06.AsyncStreams.runtimeconfig.json
+/workspaces/AsyncProgrammingC-/06.AsyncStreams/bin/Debug/net10.0/06.AsyncStreams.dll
+/workspaces/AsyncProgrammingC-/06.AsyncStreams/bin/Debug/net10.0/06.AsyncStreams.pdb
+/workspaces/AsyncProgrammingC-/06.AsyncStreams/obj/Debug/net10.0/06.AsyncStreams.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AsyncProgrammingC-/06.AsyncStreams/obj/Debug/net10.0/06.AsyncStreams.AssemblyInfoInputs.cache
+/workspaces/AsyncProgrammingC-/06.AsyncStreams/obj/Debug/net10.0/06.AsyncStreams.AssemblyInfo.cs
+/workspaces/AsyncProgrammingC-/06.AsyncStreams/obj/Debug/net10.0/06.AsyncStreams.csproj.CoreCompileInputs.cache
+/workspaces/AsyncProgrammingC-/06.AsyncStreams/obj/Debug/net10.0/06.AsyncStreams.sourcelink.json
+/workspaces/AsyncProgrammingC-/06.AsyncStreams/obj/Debug/net10.0/06.AsyncStreams.dll
+/workspaces/AsyncProgrammingC-/06.AsyncStreams/obj/Debug/net10.0/refint/06.AsyncStreams.dll
+/workspaces/AsyncProgrammingC-/06.AsyncStreams/obj/Debug/net10.0/06.AsyncStreams.pdb
+/workspaces/AsyncProgrammingC-/06.AsyncStreams/obj/Debug/net10.0/06.AsyncStreams.genruntimeconfig.cache
+/workspaces/AsyncProgrammingC-/06.AsyncStreams/obj/Debug/net10.0/ref/06.AsyncStreams.dll

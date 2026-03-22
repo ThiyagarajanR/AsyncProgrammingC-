@@ -1,0 +1,15 @@
+/workspaces/AsyncProgrammingC-/05.Exceptions/bin/Debug/net10.0/05.Exceptions
+/workspaces/AsyncProgrammingC-/05.Exceptions/bin/Debug/net10.0/05.Exceptions.deps.json
+/workspaces/AsyncProgrammingC-/05.Exceptions/bin/Debug/net10.0/05.Exceptions.runtimeconfig.json
+/workspaces/AsyncProgrammingC-/05.Exceptions/bin/Debug/net10.0/05.Exceptions.dll
+/workspaces/AsyncProgrammingC-/05.Exceptions/bin/Debug/net10.0/05.Exceptions.pdb
+/workspaces/AsyncProgrammingC-/05.Exceptions/obj/Debug/net10.0/05.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AsyncProgrammingC-/05.Exceptions/obj/Debug/net10.0/05.Exceptions.AssemblyInfoInputs.cache
+/workspaces/AsyncProgrammingC-/05.Exceptions/obj/Debug/net10.0/05.Exceptions.AssemblyInfo.cs
+/workspaces/AsyncProgrammingC-/05.Exceptions/obj/Debug/net10.0/05.Exceptions.csproj.CoreCompileInputs.cache
+/workspaces/AsyncProgrammingC-/05.Exceptions/obj/Debug/net10.0/05.Exceptions.sourcelink.json
+/workspaces/AsyncProgrammingC-/05.Exceptions/obj/Debug/net10.0/05.Exceptions.dll
+/workspaces/AsyncProgrammingC-/05.Exceptions/obj/Debug/net10.0/refint/05.Exceptions.dll
+/workspaces/AsyncProgrammingC-/05.Exceptions/obj/Debug/net10.0/05.Exceptions.pdb
+/workspaces/AsyncProgrammingC-/05.Exceptions/obj/Debug/net10.0/05.Exceptions.genruntimeconfig.cache
+/workspaces/AsyncProgrammingC-/05.Exceptions/obj/Debug/net10.0/ref/05.Exceptions.dll
